@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Esra</title>
+  <style>
+    html,body{height:100%;margin:0}
+    body{display:flex;align-items:center;justify-content:center;background:#ffffff}
+    a{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;font-size:18px;text-decoration:none;color:#111}
+  </style>
+</head>
+<body>
+  <a href="https://www.shopier.com/esracagin" target="_blank" rel="noopener noreferrer">https://www.shopier.com/esracagin</a>
+</body>
+</html>
